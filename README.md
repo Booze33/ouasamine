@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amine
-- 👀 I’m interested in Coding and Physics
+- 👀 I’m interested in Coding and Electronics
 - 🌱 I’m currently learning software development at Microverse
 - 💞️ I’m looking to collaborate on open projects
-- 📫 ouas.amine@outlook.com
+- 📫 Contact me on ouas.amine@outlook.com
