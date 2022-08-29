@@ -36,6 +36,13 @@
  </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/c3c1l1a/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=c3c1l1a&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=c3c1l1a&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ouasamine&bg_color=740783&color=c3ce9c&line=0b0a0b&point=c3ce9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
