@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer
 
-- I have a bachelor degree in electronics
-- I am currently a full time student at [Microverse](https://www.microverse.org)
-- I like coding since I was a kid 
+- I have a bachelor degree in electronics 
+- I am currently a full time student at [Microverse](https://www.microverse.org) 💻
+- I like coding since I was a kid 💞
 
 ### SKILLS
 
@@ -29,12 +29,12 @@
 
 <a href="https://github.com/ouasamine">
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true&layout=default" alt="ouasamine stats card" />
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true" alt="ouasamine stats card" />
 
 </a>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ouasamine&bg_color=740783&color=c3ce9c&line=0b0a0b&point=c3ce9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ouasamine&bg_color=400726&color=c3ce9c&line=0b0a0b&point=c3ce9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
