@@ -29,9 +29,9 @@
 <p align="left">
   <a href="https://github.com/c3c1l1a/">
 
-<img  width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=dark&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
+<img  width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
 
-<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=radical&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
 
  </a>
 </p>
