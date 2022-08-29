@@ -28,11 +28,13 @@
 
 <a href="">
  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=dark&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
+</a>
 
+<a href="">
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=radical&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
 </a>
 
-<br>
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ouasamine&bg_color=740783&color=c3ce9c&line=0b0a0b&point=c3ce9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
