@@ -26,11 +26,11 @@
 
 ### STATS
 
-<div display="flex"> 
+<div > 
 
-<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=dark&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
+<img  float="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=dark&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true&layout=default" alt="ouasamine stats card" />
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=radical&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
+<img float="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=radical&title_color=c3ce9c&text_color=c3ce9c&bg_color=740783&hide_border=true" alt="ouasamine stats card" />
 
 </div>
 
