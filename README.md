@@ -1,6 +1,6 @@
 # Hello There! 👋, I’m Amine 
 
-### Full-Stack Developer
+## Full-Stack Developer
 
 - I have a bachelor degree in electronics 
 - I am currently a full time student at [Microverse](https://www.microverse.org) 💻
@@ -23,6 +23,9 @@
 <a href="https://www.php.net" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
 </a> 
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
 
 ### STATS
 
