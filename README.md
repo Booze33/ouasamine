@@ -44,9 +44,9 @@
 
 <a href="https://github.com/ouasamine">
 
-<img  width="49.8%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true&layout=compact" alt="ouasamine stats card" />
+<img  width="49.7%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true&layout=compact" alt="ouasamine stats card" />
 
-<img  width="49.8%" height="160px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true" alt="ouasamine stats card" />
+<img  width="49.7%" height="160px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true" alt="ouasamine stats card" />
 
 </a>
 
