@@ -27,7 +27,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
 </a>
 
-## BADGE
+## BADGES
 
 <a href="https://www.credly.com/badges/d6e477eb-ede3-4f91-bd29-f06d2bdd52ae/public_url" target="_blank">
   <img height="170px" src="https://user-images.githubusercontent.com/104319462/187560579-230b4a18-6ebc-4314-8572-1cfe15480eb7.png" alt="AWS Partner Accreditation Technical"/></a>
