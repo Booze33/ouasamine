@@ -7,40 +7,40 @@
 - I have a bachelor degree in electronics 
 
 
-## PROGRAMMING LANGUAGES
+## LANGUAGES
 
-<a href="">
+<a href="https://html.spec.whatwg.org/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
-<a href="">
+<a href="https://www.w3.org/TR/CSS/#css">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
-<a href="">
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-  <a href="">
+  <a href="https://www.php.net/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
 
 ## DATABASES
 
-  <a href="">
+  <a href="https://www.mysql.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
 ## FRAMEWORKS
 
-  <a href="">
+  <a href="https://getbootstrap.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
 
 ## TOOLS
 
-  <a href="">
+  <a href="https://code.visualstudio.com/">
     <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
-  <a href="">
+  <a href="https://git-scm.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
-  <a href="">
+  <a href="https://github.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-  <a href="">
+  <a href="https://www.atlassian.com/software/jira">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></a>
-  <a href="">
+  <a href="https://slack.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" /></a>
-  <a href="">
+  <a href="https://www.figma.com/">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## BADGES
