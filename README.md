@@ -9,30 +9,8 @@
 
 ## SKILLS
 
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://getbootstrap.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-</a>
-<a href="https://www.php.net" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
-</a> 
-<a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</a>
-<a href="https://git-scm.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
-</a>
-<a href="https://aws.amazon.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
-</a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
 
 ## BADGES
 
