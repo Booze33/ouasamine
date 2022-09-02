@@ -7,7 +7,7 @@
 - I have a bachelor degree in electronics 
 
 
-## SKILLS
+## PROGRAMMING LANGUAGES
 
 <a href="">
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
@@ -16,7 +16,32 @@
 <a href="">
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
   <a href="">
-  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
+
+## DATABASES
+
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+
+## FRAMEWORKS
+
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
+
+## TOOLS
+
+  <a href="">
+    <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></a>
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" /></a>
+  <a href="">
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## BADGES
 
