@@ -10,7 +10,7 @@
 ## SKILLS
 
 <a href="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
+  <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
 
 ## BADGES
 
