@@ -5,6 +5,7 @@
 - I am currently a full time student at [Microverse](https://www.microverse.org) 💻
 - I like coding since I was a kid 💞
 - I have a bachelor degree in electronics 
+- I am open to new opportunities
 
 
 ## LANGUAGES
