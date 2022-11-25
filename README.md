@@ -7,6 +7,7 @@
 - I have a bachelor's degree in electronics 
 - I am open to new opportunities
 
+Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 
 ## LANGUAGES
 
