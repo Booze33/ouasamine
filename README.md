@@ -12,8 +12,8 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  $\textcolor{green}{\text{[HTML]}}$   
-  $\textcolor{green}{\text{[CSS]}}$   
+  $\textcolor{#d52000}{\text{[HTML]}}$   
+  $\textcolor{#1020d5}{\text{[CSS]}}$   
   $\textcolor{green}{\text{[Bootstrap]}}$   
   $\textcolor{green}{\text{[React.JS]}}$   
   $\textcolor{green}{\text{[JavaScript]}}$   
