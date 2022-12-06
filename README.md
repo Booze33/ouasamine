@@ -14,11 +14,11 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 <p>
   $\textcolor{#d52000}{\textbf{[HTML]}}$   
   $\textcolor{#1020d5}{\textbf{[CSS]}}$   
-  $\textcolor{#a0a055}{\bold{[Bootstrap]}}$   
-  $\textcolor{#efef54}{\bold{[React.JS]}}$   
-  $\textcolor{#102a050}{\bold{[JavaScript]}}$   
-  $\textcolor{#10f0de}{\bold{[PHP]}}$   
-  $\textcolor{#55a030}{\bold{[MySQL]}}$ 
+  $\textcolor{#a0a055}{\bm{[Bootstrap]}}$   
+  $\textcolor{#efef54}{\bm{[React.JS]}}$   
+  $\textcolor{#102a050}{\bm{[JavaScript]}}$   
+  $\textcolor{#10f0de}{\bm{[PHP]}}$   
+  $\textcolor{#55a030}{\bm{[MySQL]}}$ 
 </p> 
 
 ## TOOLS
