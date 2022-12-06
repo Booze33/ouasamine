@@ -12,13 +12,13 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  $\textcolor{#d52000}{[HTML]}$   
-  $\textcolor{#1020d5}{[CSS]}$   
-  $\textcolor{#a0a055}{[Bootstrap]}$   
-  $\textcolor{#efef54}{[React.JS]}$   
-  $\textcolor{#102a050}{[JavaScript]}$   
-  $\textcolor{#10f0de}{[PHP]}$   
-  $\textcolor{#55a030}{[MySQL]}$ 
+  $\textcolor{#d52000}{[ HTML ]}$   
+  $\textcolor{#1020d5}{[ CSS ]}$   
+  $\textcolor{#a0a055}{[ Bootstrap ]}$   
+  $\textcolor{#efef54}{[ React.JS ]}$   
+  $\textcolor{#102a050}{[ JavaScript ]}$   
+  $\textcolor{#10f0de}{[ PHP ]}$   
+  $\textcolor{#55a030}{[ MySQL ]}$ 
 </p> 
 
 ## TOOLS
