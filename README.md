@@ -11,7 +11,15 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 
 ## LANGUAGES & Technologies
 
-<p style="margin:15px;">
+<p>
+  $\textcolor{green}{\text{[HTML]}}$   
+  $\textcolor{green}{\text{[CSS]}}$   
+  $\textcolor{green}{\text{[Bootstrap]}}$   
+  $\textcolor{green}{\text{[React.JS]}}$   
+  $\textcolor{green}{\text{[JavaScript]}}$   
+  $\textcolor{green}{\text{[PHP]}}$   
+  $\textcolor{green}{\text{[MySQL]}}$   
+
   <a href="https://html.spec.whatwg.org/" style="color:#d52000;font-weight:bold;">
     [HTML]
     </a>
@@ -38,7 +46,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 
 ## TOOLS
 
-<p style="margin:15px;">
+<p>
   <a href="https://code.visualstudio.com/" style="color:#2767de;font-weight:bold;">
     [VSCode]
     </a>
