@@ -24,24 +24,12 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## TOOLS
 
 <p>
-  <a href="https://code.visualstudio.com/" style="color:#2767de;font-weight:bold;">
-    [VSCode]
-    </a>
-  <a href="https://git-scm.com/" style="color:#33afa5;font-weight:bold;">
-    [Git]
-    </a>
-  <a href="https://github.com/" style="color:#a55a5a;font-weight:bold;">
-    [GitHub]
-  </a>
-  <a href="https://www.atlassian.com/software/jira" style="color:#1020ff;font-weight:bold;">
-    [Jira]
-    </a>
-  <a href="https://slack.com/" style="color:#a5f55a;font-weight:bold;">
-    [Slack]
-    </a>
-  <a href="https://www.figma.com/" style="color:#e5f025;font-weight:bold;">
-    [Figma]
-    </a>
+  $\textcolor{#2767de}{[ VSCode ]}$   
+  $\textcolor{#33afa5}{[ Git ]}$   
+  $\textcolor{#a55a5a}{[ GitHub ]}$   
+  $\textcolor{#1020ff}{[ Jira ]}$   
+  $\textcolor{#a5f55a}{[ Slack ]}$   
+  $\textcolor{#e5f025}{[ Figma ]}$   
 </p>
 
 ## BADGES
