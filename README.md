@@ -14,34 +14,11 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 <p>
   $\textcolor{#d52000}{\textbf{[HTML]}}$   
   $\textcolor{#1020d5}{\textbf{[CSS]}}$   
-  $\textcolor{green}{\text{[Bootstrap]}}$   
-  $\textcolor{green}{\text{[React.JS]}}$   
-  $\textcolor{green}{\text{[JavaScript]}}$   
-  $\textcolor{green}{\text{[PHP]}}$   
-  $\textcolor{green}{\text{[MySQL]}}$   
-
-  <a href="https://html.spec.whatwg.org/" style="color:#d52000;font-weight:bold;">
-    [HTML]
-    </a>
-  <a href="https://www.w3.org/TR/CSS/#css" style="color:#1020d5;font-weight:bold;">
-    [CSS]
-    </a>
-  <a href="https://getbootstrap.com/" style="color:#a0a055;font-weight:bold;">
-    [Bootstrap]
-    </a>
-  <a href="https://reactjs.org/" style="color:#efef54;font-weight:bold;">
-    [React.JS]
-    </a>
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" style="color:#102a050;font-weight:bold;">
-    [JavaScript]
-    </a>
-  <a href="https://www.php.net/" style="color:#10f0de;font-weight:bold;">
-    [PHP]
-    </a>
-  <a href="https://www.mysql.com/" style="color:#55a030;font-weight:bold;">
-    [MySQL]
-    </a>
-   
+  $\textcolor{#a0a055}{\bold{[Bootstrap]}}$   
+  $\textcolor{#efef54}{\bold{[React.JS]}}$   
+  $\textcolor{#102a050}{\bold{[JavaScript]}}$   
+  $\textcolor{#10f0de}{\bold{[PHP]}}$   
+  $\textcolor{#55a030}{\bold{[MySQL]}}$ 
 </p> 
 
 ## TOOLS
