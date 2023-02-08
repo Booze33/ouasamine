@@ -3,8 +3,8 @@
 ### Full-Stack Developer
 
 - I am currently a full-time student at [Microverse](https://www.microverse.org) 💻
-- I liked coding since I was a kid 💞
-- I have a bachelor's degree in electronics 
+- I started coding when I was a kid 💞
+- I am a college graduate in Electronics engineering 
 - I am open to new opportunities
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
@@ -14,11 +14,12 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 <p>
   $\textcolor{#d52000}{[ HTML ]}$   
   $\textcolor{#1020d5}{[ CSS ]}$   
+  $\textcolor{#102a050}{[ JavaScript ]}$ 
+  $\textcolor{#10f0de}{[ Ruby ]}$  
+  $\textcolor{#55a030}{[ SQL ]}$ 
   $\textcolor{#a0a055}{[ Bootstrap ]}$   
   $\textcolor{#efef54}{[ React.JS ]}$   
-  $\textcolor{#102a050}{[ JavaScript ]}$   
-  $\textcolor{#10f0de}{[ PHP ]}$   
-  $\textcolor{#55a030}{[ MySQL ]}$ 
+  $\textcolor{#e1a054}{[ Ruby on Rails ]}$ 
 </p> 
 
 ## TOOLS
