@@ -19,7 +19,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
   $\textcolor{#55a030}{[ SQL ]}$ 
   $\textcolor{#a0a055}{[ Bootstrap ]}$   
   $\textcolor{#efef54}{[ React.JS ]}$   
-  $\textcolor{#e1a054}{[ Ruby on Rails ]}$ 
+  $\textcolor{#e1a054}{[ Rails ]}$ 
 </p> 
 
 ## TOOLS
