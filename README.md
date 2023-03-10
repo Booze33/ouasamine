@@ -12,7 +12,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+  $\textcolor{#f020d5}{[ CSS ]}$ 
   $\textcolor{#1020d5}{[ CSS ]}$   
   $\textcolor{#102a050}{[ JavaScript ]}$ 
   $\textcolor{#10f0de}{[ Ruby ]}$  
@@ -45,7 +45,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## STATS
 
 <a href="#">
-  <img  width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true&layout=compact" alt="ouasamine stats card" />
-  <img  width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true" alt="ouasamine stats card" />
+  <img  width="47%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouasamine&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true&layout=compact" alt="ouasamine stats card" />
+  <img  width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=ouasamine&show_icons=true&theme=gruvbox&title_color=c3ce9c&text_color=c3ce9c&bg_color=400726&hide_border=true" alt="ouasamine stats card" />
 </a>
 
