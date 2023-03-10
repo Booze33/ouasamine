@@ -12,7 +12,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  $\textcolor{#f020d5}{[ CSS ]}$ 
+  $\textcolor{#f020d5}{[ HTML ]}$ 
   $\textcolor{#1020d5}{[ CSS ]}$   
   $\textcolor{#102a050}{[ JavaScript ]}$ 
   $\textcolor{#10f0de}{[ Ruby ]}$  
