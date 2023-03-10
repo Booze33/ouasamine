@@ -12,7 +12,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  $\textcolor{#d52000}{[ HTML ]}$   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
   $\textcolor{#1020d5}{[ CSS ]}$   
   $\textcolor{#102a050}{[ JavaScript ]}$ 
   $\textcolor{#10f0de}{[ Ruby ]}$  
